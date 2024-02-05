@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\bin\Debug\CalculateTax.exe.config
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\bin\Debug\CalculateTax.exe
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\bin\Debug\CalculateTax.pdb
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\obj\Debug\CalculateTax.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\obj\Debug\CalculateTax.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\obj\Debug\CalculateTax.Form1.resources
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\obj\Debug\CalculateTax.Properties.Resources.resources
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\obj\Debug\CalculateTax.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\obj\Debug\CalculateTax.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\obj\Debug\CalculateTax.exe
+C:\Users\HP\Desktop\program\C#\Second\CalculateTax\CalculateTax\obj\Debug\CalculateTax.pdb
